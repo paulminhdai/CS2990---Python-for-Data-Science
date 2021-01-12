@@ -1,4 +1,4 @@
-#Project: A small endeavor towards data analysis (100 points)
+# Project: A small endeavor towards data analysis (100 points)
 
 While big data analytics may need packages such as numpy and/or pandas for processing. Here we explore a few steps of data analysis using Python’s basic features such as file I/O and lists. You may need to restrict the dataset size not exceeding 1MB.
 

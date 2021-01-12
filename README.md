@@ -2,13 +2,13 @@
 
 While big data analytics may need packages such as numpy and/or pandas for processing. Here we explore a few steps of data analysis using Python’s basic features such as file I/O and lists. You may need to restrict the dataset size not exceeding 1MB.
 
-*Step 1: Find a data set by yourself. Suggest to use a dataset of a few KB that you find from data sites such as Kaggle.com. You decide which and what kind of data file you’d use. 
+* Step 1: Find a data set by yourself. Suggest to use a dataset of a few KB that you find from data sites such as Kaggle.com. You decide which and what kind of data file you’d use. 
 
-*Step 2: Write Python code to read in data from the file, and analyze the data. The analysis of data could include but not limited to the distribution/spread of the datasets. 
+* Step 2: Write Python code to read in data from the file, and analyze the data. The analysis of data could include but not limited to the distribution/spread of the datasets. 
 
-*Step 3: Visualize your analysis results (not every result needs to be visualized, some could be in table format, or some just a simple value, e.g. sum, average, median, etc.)
+* Step 3: Visualize your analysis results (not every result needs to be visualized, some could be in table format, or some just a simple value, e.g. sum, average, median, etc.)
 
-*Step 4: Present some analysis of your results, i.e. what does a result mean? For example, if you calculated a class average for a test, the result shows 60 over 100. You could infer that the test is too hard or most students didn’t do well. (Optional) if your results demonstrate an issue/problem (e.g. test too hard) provide some suggests for improvement or solving the problem.
+* Step 4: Present some analysis of your results, i.e. what does a result mean? For example, if you calculated a class average for a test, the result shows 60 over 100. You could infer that the test is too hard or most students didn’t do well. (Optional) if your results demonstrate an issue/problem (e.g. test too hard) provide some suggests for improvement or solving the problem.
 
 Submission: 
 1. A presentation slides containing the following:
